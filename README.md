@@ -1,11 +1,11 @@
 <h1 align = "center">Welcome to my github!</h1>
-<h3 align = "center">Computer Science Major and Aspiring Game Software Engineer</h3>
+<h3 align = "center">Computer Science Major and Aspiring Software Developer</h3>
 <p align = "center">
-  Hello my name is Jesse Shaihor and I am currently a senior student at Cal State Fullerton. Here on my github profile you will find some of my class assignments and my own personal programs. Hopefully by the time this is written I would have upload some fun games for you guys to try! But if there isn't anything sorry I'll get working on it right away! 
+  Hello my name is Jesse Shaihor and I am a graduate from Cal State Fullerton. Here on my github profile you will find some of my class assignments and my own personal programs. 
 </p>
 
 **About me**
-- 🎓 A senior at Cal State Fullerton
+- 🎓 A Graduate at Cal State Fullerton
 - 🎮 Love to play and create games
 
 
