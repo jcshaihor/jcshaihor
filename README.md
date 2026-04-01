@@ -15,3 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcshaihor)](https://github.com/anuraghazra/github-readme-stats)
 
 Click [here](https://github.com/anuraghazra/github-readme-stats) it will take you to the repository to where I found this github stat card from!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcshaihor)](https://github.com/anuraghazra/github-readme-stats)
